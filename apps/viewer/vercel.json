@@ -3,7 +3,7 @@
     "silent": true
   },
   "functions": {
-    "api/**/*.ts": {
+    "**/*.[jt]s": {
       "maxDuration": 10
     }
   }
