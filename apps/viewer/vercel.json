@@ -1,10 +1,5 @@
 {
   "github": {
     "silent": true
-  },
-  "functions": {
-    "**/*.[jt]s": {
-      "maxDuration": 10
-    }
   }
 }
